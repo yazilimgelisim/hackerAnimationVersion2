@@ -25,7 +25,7 @@ for(let i = 0; i<canvas.width/fontSize; i++){
 
 
 const draw=()=>{
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)'
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.03)'
     ctx.fillRect(0,0,canvas.width, canvas.height)
 
     ctx.fillStyle = 'rgb(0, 256, 0)'
