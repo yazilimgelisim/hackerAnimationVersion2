@@ -4,7 +4,7 @@
 
 ### Projeninin Kurulumu:
 - Projeyi çalıştırmak için yapılması gereken tek şey projeyi github üzerinden indirip `index.html` isimli dosyayı çalıştırmak olacaktır.
-- İndirme işlemini github üzerinden `Dowload Zip` şeklinde yapabileceğiniz gibi [Github](https://git-scm.com/) kurulu olan bilgisayarınızda terminal alanına
+- İndirme işlemini github üzerinden `Download Zip` şeklinde yapabileceğiniz gibi [Github](https://git-scm.com/) kurulu olan bilgisayarınızda terminal alanına
   ```
   git clone https://github.com/yazilimgelisim/tilt_effect.git
   ```
